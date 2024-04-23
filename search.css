@@ -1,0 +1,28 @@
+
+.boxsearch{
+    border: 2px solid black;
+    display: inline-flex;
+    margin-top: 20px;
+    padding: 0ch;
+    border-radius: 15px;
+    /* margin-left: 50px;  */
+     width: 53%; 
+    overflow: hidden;
+    
+}
+
+.boxsearch:hover{
+    border-color: yellowgreen;
+}
+.searchbar{
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    width: 95%;
+}
+.sidebox{
+    display: inline;
+    border: 1px solid black;
+    width: 5%;
+    padding: 12px 26px;
+}
